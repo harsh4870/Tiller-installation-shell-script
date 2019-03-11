@@ -1,4 +1,4 @@
-# Tiller-instyallation-shell-script
+# Tiller-installation-shell-script
 Install helm tiller on kubernetes using shell script
 
 # Prerequisite
